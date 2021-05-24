@@ -7,14 +7,14 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 <h1>Before You Begin<h1>
 
 <ol>
-<li>Create a new repository for this project called D3-Challenge. Do not add this homework to an existing repository.</li>
+<li>Create a new repository for this project.</li>
 
 
 <li>Clone the new repository to your computer.</li>
 
 
-<li>This homework utilizes both html and Javascript so be sure to add all the necessary files. These will be the main files to run for analysis.</li>
+<li>This project utilizes both html and Javascript so be sure to add all the necessary files. These will be the main files to run for analysis.</li>
 
 
-<li>Push the above changes to GitHub.</li>
+
 </ol>
