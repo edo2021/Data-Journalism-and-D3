@@ -18,3 +18,4 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 
 </ol>
+#readme > div.Box-body.px-5.pb-5 > article > p:nth-child(10) > a > img
