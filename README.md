@@ -19,4 +19,20 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 </ol>
 
+I create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
+Using the D3 techniques skills I have, create a scatter plot that represents each state with circle elements. i code this graphic in the app.js file  directory—make sure you pull in the data from data.csv by using the d3.csv function. 
+
+<ul>
+<li>Include state abbreviations in the circles.</>
+
+
+<li>Create and situate your axes and labels to the left and bottom of the chart.</li>
+
+
+<li>Note: You'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser. Please use LiveServer instead.</l>
+<ul>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/75814760/116644340-b7b09d80-a938-11eb-8b3b-0011cf93fee6.gif" alt="7-animated-scatter" style="max-width:100%;">
