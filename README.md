@@ -18,4 +18,5 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 
 </ol>
-#readme > div.Box-body.px-5.pb-5 > article > p:nth-child(10) > a > img
+
+<img src="https://user-images.githubusercontent.com/75814760/116644340-b7b09d80-a938-11eb-8b3b-0011cf93fee6.gif" alt="7-animated-scatter" style="max-width:100%;">
